@@ -6,13 +6,19 @@
 
 ## What I learned:
 
-     Everything in Python is an object like Javascript without primative forms.
-     The entire module is run as this object in the CLI and given properties called _name_ with
+     1. Everything in Python is an object like Javascript without primative forms.
+
+     2. The entire module is run as this object in the CLI and given properties called _name_ with
      a value of _main_
 
-     print() = console.log()
-     objects are called dictionaries in Python
-     whitespace matters
-     if and for use colons instead with indentation after
-     functions work simarily but are called defintions? they use def instead of function.
-     compliler determines values at runtime
+     3. print() = console.log()
+
+     4. objects are called dictionaries in Python
+
+     5. whitespace matters
+
+     6. if and for use colons instead with indentation after
+     
+     7. functions work simarily but are called defintions? they use def instead of function.
+     
+     8. compliler determines values at runtime
