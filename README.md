@@ -13,12 +13,12 @@
 
      3. print() = console.log()
 
-     4. objects are called dictionaries in Python
+     4. Objects are called dictionaries in Python
 
-     5. whitespace matters
+     5. Whitespace matters
 
      6. if and for use colons instead with indentation after
      
-     7. functions work simarily but are called defintions? they use def instead of function.
-     
-     8. compliler determines values at runtime
+     7. Functions work simarily but are called defintions? they use def instead of function.
+
+     8. Compliler determines values at runtime
